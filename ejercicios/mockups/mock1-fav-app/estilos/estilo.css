@@ -1,0 +1,32 @@
+body {
+    padding: 30px 50px 50px 130px;
+}
+.titulo{
+    background-color: 33BEBE;
+    padding-top: 20px;
+
+}
+.titulo h1{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 75px;
+    padding-left: 20px;
+}
+
+.contenido {
+    display: flex;
+}
+
+.contenido p {
+    color: 7C8B88;
+    font-weight: 10px;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+.contenido img {
+    max-height: 375px;
+}
